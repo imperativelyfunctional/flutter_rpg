@@ -9,5 +9,3 @@
 頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
 
 ![遊戲截屏](https://github.com/imperativelyfunctional/flutter_rpg/blob/main/map.gif)
-
-<img src="https://github.com/imperativelyfunctional/flutter_rpg/blob/main/map.gif" width=397 height=183/>
