@@ -10,4 +10,4 @@
 
 ![遊戲截屏](https://github.com/imperativelyfunctional/flutter_rpg/blob/main/map.gif)
 
-<img src="https://github.com/imperativelyfunctional/flutter_rpg/blob/main/map.gif"/>
+<img src="https://github.com/imperativelyfunctional/flutter_rpg/blob/main/map.gif" width=397 height=183/>
